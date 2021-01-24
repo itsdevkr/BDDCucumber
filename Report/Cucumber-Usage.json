@@ -1,0 +1,128 @@
+[
+  {
+    "source": "I want to write a step with precondition.",
+    "steps": [
+      {
+        "name": "I want to write a step with precondition.",
+        "aggregatedDurations": {
+          "median": 0.0049966,
+          "average": 0.0049966
+        },
+        "durations": [
+          {
+            "duration": 0.0049966,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "some other precondition.",
+    "steps": [
+      {
+        "name": "some other precondition.",
+        "aggregatedDurations": {
+          "median": 0.0,
+          "average": 0.0
+        },
+        "durations": [
+          {
+            "duration": 0.0,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I complete action.",
+    "steps": [
+      {
+        "name": "I complete action.",
+        "aggregatedDurations": {
+          "median": 9.969E-4,
+          "average": 9.969E-4
+        },
+        "durations": [
+          {
+            "duration": 9.969E-4,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "some other action.",
+    "steps": [
+      {
+        "name": "some other action.",
+        "aggregatedDurations": {
+          "median": 0.0,
+          "average": 0.0
+        },
+        "durations": [
+          {
+            "duration": 0.0,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "yet another action.",
+    "steps": [
+      {
+        "name": "yet another action.",
+        "aggregatedDurations": {
+          "median": 0.0,
+          "average": 0.0
+        },
+        "durations": [
+          {
+            "duration": 0.0,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "I validate the outcomes.",
+    "steps": [
+      {
+        "name": "I validate the outcomes.",
+        "aggregatedDurations": {
+          "median": 0.0,
+          "average": 0.0
+        },
+        "durations": [
+          {
+            "duration": 0.0,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "check more outcomes.",
+    "steps": [
+      {
+        "name": "check more outcomes.",
+        "aggregatedDurations": {
+          "median": 0.0039981,
+          "average": 0.0039981
+        },
+        "durations": [
+          {
+            "duration": 0.0039981,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/BDDCucumber/featurefiles/demo.feature:11"
+          }
+        ]
+      }
+    ]
+  }
+]
